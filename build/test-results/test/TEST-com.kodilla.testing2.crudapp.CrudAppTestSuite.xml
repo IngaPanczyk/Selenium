@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.testing2.crudapp.CrudAppTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-10T13:14:14" hostname="DESKTOP-VUOAR0M" time="37.793">
+  <properties/>
+  <testcase name="deleteTrelloCard" classname="com.kodilla.testing2.crudapp.CrudAppTestSuite" time="37.793"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[1612962854645	geckodriver	INFO	Listening on 127.0.0.1:44585
+1612962855277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ingaw\\AppData\\Local\\Temp\\rust_mozprofile6OntUw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612962857514	Marionette	INFO	Listening on port 53147
+1612962857974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612962857984	Marionette	ERROR	[15] No reply from Marionette:Register
+lut 10, 2021 2:14:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612962865290	geckodriver	INFO	Listening on 127.0.0.1:34419
+1612962865788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ingaw\\AppData\\Local\\Temp\\rust_mozprofilepCkN9y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612962868233	Marionette	INFO	Listening on port 53226
+1612962868494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612962868507	Marionette	ERROR	[15] No reply from Marionette:Register
+lut 10, 2021 2:14:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612962889024	Marionette	INFO	Stopped listening on port 53147
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+]]></system-err>
+</testsuite>
